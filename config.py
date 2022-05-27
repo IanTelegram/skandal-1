@@ -49,7 +49,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>Hello {first}\n\nSilahkan Tekan Tombol Join Jika Kamu Belum Join Untuk Menggunakan Bot Ini.\n\nJika Bot Tidak Merespon Kemungkinan Sedang Delay Karna Banyak Yang Pakai Jadi Bersabar 3- Menit!!!</b>",
+    "<b>Hello {first}\n\nSilahkan Tekan Tombol Join Jika Kamu Belum Join Untuk Menggunakan Bot Ini.\n\nJika Bot Tidak Merespon Kemungkinan Sedang Delay Karna Banyak Yang Pakai Jadi Bersabar 3-5Menit!!!</b>",
 )
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
